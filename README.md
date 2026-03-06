@@ -4,6 +4,6 @@ Data and code for 《Tabu-Enhanced Simulated Bifurcation for Improved Optimizati
 
 
 <p align="center">
-  <img src="logo.png" alt="Tabu-Enhanced Simulated Bifurcation Logo" width="200" height="200">
-</p>
 
+  <img src="logo.png" alt="Tabu-Enhanced Simulated Bifurcation Logo" width="80%">
+</p>
